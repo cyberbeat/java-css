@@ -21,7 +21,7 @@
  * have any questions.
  */
 
-package com.sun.stylesheet.swing;
+/* Modified by Volker Härtel, 8 Dec 2011 */ package com.sun.stylesheet.swing;
 
 import java.beans.IntrospectionException;
 import java.beans.PropertyDescriptor;

@@ -21,6 +21,8 @@
  * have any questions.
  */
 
+/* Modified by Volker Härtel, 8 Dec 2011 */ 
+
 package com.sun.stylesheet.styleable;
 
 import java.beans.PropertyDescriptor;

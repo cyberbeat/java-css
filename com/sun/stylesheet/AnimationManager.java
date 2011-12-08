@@ -21,7 +21,7 @@
  * have any questions.
  */
 
-package com.sun.stylesheet;
+/* Modified by Volker Härtel, 8 Dec 2011 */ package com.sun.stylesheet;
 
 import java.awt.geom.Point2D;
 import java.util.HashMap;

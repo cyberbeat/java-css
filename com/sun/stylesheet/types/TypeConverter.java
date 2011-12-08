@@ -21,7 +21,7 @@
  * have any questions.
  */
 
-package com.sun.stylesheet.types;
+/* Modified by Volker Härtel, 8 Dec 2011 */ package com.sun.stylesheet.types;
  
 public interface TypeConverter<T> {
     public T convertFromString(String string);

@@ -21,7 +21,7 @@
  * have any questions.
  */
 
-package com.sun.stylesheet.css.parser;
+/* Modified by Volker Härtel, 8 Dec 2011 */ package com.sun.stylesheet.css.parser;
 
 import java.io.IOException;
 import java.io.InputStream;

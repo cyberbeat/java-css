@@ -21,7 +21,7 @@
  * have any questions.
  */
 
-package com.sun.stylesheet;
+/* Modified by Volker Härtel, 8 Dec 2011 */ package com.sun.stylesheet;
 
 import java.util.ArrayList;
 import java.util.Collections;

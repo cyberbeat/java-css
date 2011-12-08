@@ -21,7 +21,7 @@
  * have any questions.
  */
 
-package com.sun.stylesheet;
+/* Modified by Volker Härtel, 8 Dec 2011 */ package com.sun.stylesheet;
 
 /** 
  * Thrown when an error occurs parsing or processing a stylesheet.
