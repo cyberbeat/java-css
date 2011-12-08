@@ -1,0 +1,13 @@
+<body>
+Provides support for stylesheets, which can apply style properties to trees of objects.  Stylesheets
+can be created from CSS documents or constructed programmatically.  Example:
+<p>
+<pre>
+Stylesheet stylesheet = new Stylesheet("JFrame { font-face: Helvetica }");
+stylesheet.applyTo(myFrame);
+</pre>
+<p>
+Stylesheet objects can be modified after creation, but the changes do not become "live" until the
+stylesheet is reapplied using the {@link com.sun.css.Stylesheet#applyTo} or {@link com.sun.css.Stylesheet#reapply} 
+methods.
+</body>
